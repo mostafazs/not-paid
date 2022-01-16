@@ -1,6 +1,6 @@
 ## Client did not pay?
 
-
+### Custom Fork of [not-paid](https://github.com/kleampa/not-paid)
 Add opacity to the body tag and decrease it every day until their site completely fades away. Set a due date and customize the number of days you offer them until the website is fully vanished. 
 
 
@@ -31,3 +31,7 @@ PS: No PR's or issues will be accepted for this project.
 ## Advertising
 
 Because this repo is going viral from time to time to developers, I'm open for discussion if you want to promote a product/service in this README file. Just mail me at kleampa[]gmail
+
+## TODO
+Add JalaliDate
+Add More Options
