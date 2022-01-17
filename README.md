@@ -33,5 +33,7 @@ PS: No PR's or issues will be accepted for this project.
 Because this repo is going viral from time to time to developers, I'm open for discussion if you want to promote a product/service in this README file. Just mail me at kleampa[]gmail
 
 ## TODO
-Add JalaliDate
-Add More Options
+Add Jalali-Date
+Convert it to ES-6 Module
+Option for remove body
+Option for show message after remove budy
