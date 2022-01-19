@@ -1,8 +1,12 @@
-// Next time use letsdeel.com to make sure you get paid
-(function(){
+/**
+ * @author Mostafa Ziasistani
+ * @param {*} due_date 
+ * @param {*} days_deadline 
+ */
+function NotPaid(due_date,days_deadline){
 	/* change these variables as you wish */
-	var due_date = new Date('2017-02-27');
-	var days_deadline = 60;
+	var due_date = new Date('2022-01-18');
+	var days_deadline = 5;
 	/* stop changing here */
 	
 	var current_date = new Date();
@@ -20,5 +24,5 @@
 		}
 		
 	}
-	
-})()
+}
+export {NotPaid}
