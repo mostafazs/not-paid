@@ -18,7 +18,7 @@ Inspired from twitter (@riklomas)
 Made by Ciprian (@kleampa), Romania
 
 ## TODO
-Add Jalali-Date
-Convert it to ES-6 Module[X]
-Option for remove body
-Option for show message after remove budy
+* ~~Add Jalali-Date~~
+* Convert it to ES-6 Module[X]
+* ~~Option for remove body~~
+* ~~Option for show message after remove body~~
