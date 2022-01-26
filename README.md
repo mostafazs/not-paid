@@ -1,6 +1,6 @@
 ## Client did not pay?
 
-### A clone of [not-paid](https://github.com/kleampa/not-paid) but with more options.
+### Fork of [not-paid](https://github.com/kleampa/not-paid) but with more options.
 Add opacity to the body tag and decrease it every day until their site completely fades away. Set a due date and customize the number of days you offer them until the website is fully vanished. 
 
 
@@ -20,5 +20,6 @@ Made by Ciprian (@kleampa), Romania
 ## TODO
 * ~~Add Jalali-Date~~
 * Convert it to ES-6 Module[X]
+* Add npm package.json[X]
 * ~~Option for remove body~~
 * ~~Option for show message after remove body~~

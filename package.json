@@ -1,0 +1,22 @@
+{
+  "name": "not-paid",
+  "version": "1.0.0",
+  "description": "Add opacity to the body tag and decrease it every day until their site completely fades away. Set a due date and customize the number of days you offer them until the website is fully vanished",
+  "main": "not-paid.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafazs/not-paid.git"
+  },
+  "author": "@riklomas @kleampa @mostafazs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mostafazs/not-paid/issues"
+  },
+  "homepage": "https://github.com/mostafazs/not-paid#readme"
+}
